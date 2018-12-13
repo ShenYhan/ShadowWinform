@@ -601,7 +601,7 @@ namespace shadowWinform
                     dst.Data[i, j, 2] = (byte)temp;
                 }
             }
-
+            //demo
             return dst;
         }
 
